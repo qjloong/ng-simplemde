@@ -1,0 +1,16 @@
+{
+  "name": "ng-simplemde",
+  "version": "0.0.1",
+  "description": "An AngularJS wrapper for SimpleMDE",
+  "main": "dist/ng-simplemde.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qjloong/ng-simplemde.git"
+  },
+  "author": "qjloong <524555377@gmail.com>",
+  "license": "MIT"
+}
